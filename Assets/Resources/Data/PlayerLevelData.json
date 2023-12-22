@@ -1,0 +1,184 @@
+﻿{
+    "list": [
+        {
+            "level": 1,
+            "maxHP": 100,
+            "baseAttack": 10.0,
+            "reqExp": 0,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 3.0
+        },
+        {
+            "level": 2,
+            "maxHP": 200,
+            "baseAttack": 15.0,
+            "reqExp": 30,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 3.0
+        },
+        {
+            "level": 3,
+            "maxHP": 300,
+            "baseAttack": 20.0,
+            "reqExp": 80,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 4,
+            "maxHP": 400,
+            "baseAttack": 25.0,
+            "reqExp": 150,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 5,
+            "maxHP": 500,
+            "baseAttack": 30.0,
+            "reqExp": 250,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 6,
+            "maxHP": 600,
+            "baseAttack": 35.0,
+            "reqExp": 450,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 7,
+            "maxHP": 700,
+            "baseAttack": 40.0,
+            "reqExp": 700,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 8,
+            "maxHP": 800,
+            "baseAttack": 45.0,
+            "reqExp": 800,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 9,
+            "maxHP": 900,
+            "baseAttack": 50.0,
+            "reqExp": 900,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 10,
+            "maxHP": 1000,
+            "baseAttack": 55.0,
+            "reqExp": 1000,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 11,
+            "maxHP": 1100,
+            "baseAttack": 60.0,
+            "reqExp": 1100,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 12,
+            "maxHP": 1200,
+            "baseAttack": 65.0,
+            "reqExp": 1200,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 13,
+            "maxHP": 1300,
+            "baseAttack": 70.0,
+            "reqExp": 1300,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 14,
+            "maxHP": 1400,
+            "baseAttack": 75.0,
+            "reqExp": 1400,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 15,
+            "maxHP": 1500,
+            "baseAttack": 80.0,
+            "reqExp": 1500,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 16,
+            "maxHP": 1600,
+            "baseAttack": 85.0,
+            "reqExp": 1600,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 17,
+            "maxHP": 1700,
+            "baseAttack": 90.0,
+            "reqExp": 1700,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 18,
+            "maxHP": 1800,
+            "baseAttack": 95.0,
+            "reqExp": 1800,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 19,
+            "maxHP": 1900,
+            "baseAttack": 100.0,
+            "reqExp": 1900,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        },
+        {
+            "level": 20,
+            "maxHP": 2000,
+            "baseAttack": 105.0,
+            "reqExp": 2000,
+            "moveSpeed": 5.0,
+            "turnSpeed": 540.0,
+            "attackRange": 2.0
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9264310ce071ee647b7ecbff5d47a20c, type: 3}
+  m_Name: StoreData
+  m_EditorClassIdentifier: 
+  list:
+  - grade: 1
+    weaponAtk: 10
+    ArmorDef: 5
+    WeaponPrice: 100
+    ArmorPrice: 100
+  - grade: 2
+    weaponAtk: 20
+    ArmorDef: 7
+    WeaponPrice: 200
+    ArmorPrice: 200
+  - grade: 3
+    weaponAtk: 30
+    ArmorDef: 9
+    WeaponPrice: 300
+    ArmorPrice: 300
+  - grade: 4
+    weaponAtk: 40
+    ArmorDef: 11
+    WeaponPrice: 400
+    ArmorPrice: 400
+  - grade: 5
+    weaponAtk: 50
+    ArmorDef: 13
+    WeaponPrice: 500
+    ArmorPrice: 500
+  - grade: 6
+    weaponAtk: 60
+    ArmorDef: 15
+    WeaponPrice: 600
+    ArmorPrice: 600
+  - grade: 7
+    weaponAtk: 70
+    ArmorDef: 17
+    WeaponPrice: 700
+    ArmorPrice: 700
+  - grade: 8
+    weaponAtk: 80
+    ArmorDef: 19
+    WeaponPrice: 800
+    ArmorPrice: 800
+  - grade: 9
+    weaponAtk: 90
+    ArmorDef: 21
+    WeaponPrice: 900
+    ArmorPrice: 900
+  - grade: 10
+    weaponAtk: 100
+    ArmorDef: 23
+    WeaponPrice: 1000
+    ArmorPrice: 1000
+  - grade: 11
+    weaponAtk: 110
+    ArmorDef: 25
+    WeaponPrice: 1100
+    ArmorPrice: 1100
+  - grade: 12
+    weaponAtk: 120
+    ArmorDef: 27
+    WeaponPrice: 1200
+    ArmorPrice: 1200
+  - grade: 13
+    weaponAtk: 130
+    ArmorDef: 29
+    WeaponPrice: 1300
+    ArmorPrice: 1300
+  - grade: 14
+    weaponAtk: 140
+    ArmorDef: 31
+    WeaponPrice: 1400
+    ArmorPrice: 1400
+  - grade: 15
+    weaponAtk: 150
+    ArmorDef: 33
+    WeaponPrice: 1500
+    ArmorPrice: 1500
+  - grade: 16
+    weaponAtk: 160
+    ArmorDef: 35
+    WeaponPrice: 1600
+    ArmorPrice: 1600
+  - grade: 17
+    weaponAtk: 170
+    ArmorDef: 37
+    WeaponPrice: 1700
+    ArmorPrice: 1700
+  - grade: 18
+    weaponAtk: 180
+    ArmorDef: 39
+    WeaponPrice: 1800
+    ArmorPrice: 1800
+  - grade: 19
+    weaponAtk: 190
+    ArmorDef: 41
+    WeaponPrice: 1900
+    ArmorPrice: 1900
+  - grade: 20
+    weaponAtk: 200
+    ArmorDef: 43
+    WeaponPrice: 2000
+    ArmorPrice: 2000
