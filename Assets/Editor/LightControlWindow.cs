@@ -12,6 +12,12 @@ public enum LightAppearance
 
 public class LightControlWindow : EditorWindow
 {
+    //GameObject
+    static GameObject currentLight;
+
+    //Tranfrom
+    static Transform light_Transform;
+
     //General
     public static LightType light_Type = LightType.Spot;
     public static LightmapBakeType light_Mode = LightmapBakeType.Baked;
@@ -33,6 +39,7 @@ public class LightControlWindow : EditorWindow
     public static LightShadows Light_Shadows = LightShadows.None;
     public static float Light_ShadowRadius = 0;
 
+    bool isTransform = true;
     bool isGeneral = true;
     bool isShape = true;
     bool isEmission = true;
@@ -51,7 +58,7 @@ public class LightControlWindow : EditorWindow
     float myFloat = 1.23f;
     float myFloat2 = 0f;
 
-    static GameObject currentLight;
+    
 
     public static void Init(GameObject light)
     {
@@ -63,9 +70,11 @@ public class LightControlWindow : EditorWindow
         Event currentEvent = Event.current;
         //HandleUtility.GUIPointToScreenPixelCoordinate(currentEvent.mousePosition);
         var mousePosition = EditorGUIUtility.GUIToScreenPoint(currentEvent.mousePosition);
-        window.position = new Rect(mousePosition.x + 20, mousePosition.y, 300, 370);
+        window.position = new Rect(mousePosition.x + 20, mousePosition.y, 300, 500);
         //window.position = new Rect(960,200, 300, 500);
 
+        //Transform
+        light_Transform = currentLight.transform;
         //General
         light_Type = currentLight.GetComponent<Light>().type;
         light_Mode = currentLight.GetComponent<Light>().lightmapBakeType;
@@ -101,7 +110,24 @@ public class LightControlWindow : EditorWindow
     void OnGUI()
     {
         //SerializedObject serializedObject_light = new SerializedObject(currentLight);
-        
+        currentLight = EditorGUILayout.ObjectField("Light", currentLight, typeof(GameObject), true) as GameObject;
+
+
+
+        isTransform = EditorGUILayout.Foldout(isTransform, "Transform", true);
+        if (isTransform)
+        {
+            Vector3 position = light_Transform.position;
+            Vector3 rotation = light_Transform.rotation.eulerAngles;
+            Vector3 scale = light_Transform.localScale;
+            position = EditorGUILayout.Vector3Field("Position", position);
+            rotation = EditorGUILayout.Vector3Field("Rotation", rotation);
+            scale = EditorGUILayout.Vector3Field("Scale", scale);
+
+            currentLight.transform.position = position;
+            currentLight.transform.rotation = Quaternion.Euler(rotation);
+            currentLight.transform.localScale = scale;
+        }
 
         isGeneral = EditorGUILayout.Foldout(isGeneral, "General", true);
         if (isGeneral)
