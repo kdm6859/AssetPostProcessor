@@ -24,6 +24,7 @@ https://youtu.be/MiLL36TP6oo
 
 ![Untitled (1)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/4e367b8d-e124-45bd-b759-e2b9798fe438)
 
+
 - 마우스로 대상 오브젝트(라이트) 클릭 시 프로퍼티를 설정할 수 있는 윈도우창 생성
 
 ![Untitled (2)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/4e3abef6-a417-4fe6-83ca-18a5f90f2910)
@@ -44,6 +45,5 @@ https://youtu.be/MiLL36TP6oo
 
 - Excel 파일의 정보를 criptableObject, Json 형식으로 변환
 
-![Untitled (6)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/9bdf2616-eeb5-40e7-9ee6-cbed49ccd3a8)
+![제목 없음](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/3bbe2bd0-c040-480f-bdc3-1a6cc88a4422)
 
-![Untitled (7)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/ce65e020-cef7-4883-8dfc-6a404e4691bc)
