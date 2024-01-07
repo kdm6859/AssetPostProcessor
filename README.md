@@ -22,28 +22,28 @@ https://youtu.be/MiLL36TP6oo
 
 ![Untitled (1)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/7bc985b0-b14c-4dd3-adbb-055cbf70e419)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/5992489d-29fd-40a5-a1a1-5227dcee4e8c/Untitled.png)
+![Untitled (1)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/4e367b8d-e124-45bd-b759-e2b9798fe438)
 
 - 마우스로 대상 오브젝트(라이트) 클릭 시 프로퍼티를 설정할 수 있는 윈도우창 생성
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/3461bf87-8983-4600-a6ce-2b5e4348404f/Untitled.png)
+![Untitled (2)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/4e3abef6-a417-4fe6-83ca-18a5f90f2910)
 
 ### 2. 설치한 오브젝트  Excel 파일로 저장
 
 - 메뉴에 저장버튼을 생성하여 버튼 클릭 시 생성한 오브젝트 Excel 파일로 저장(NPOI 라이브러리)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/288bf4a1-ede8-4027-a5a3-de93ed73b21c/Untitled.png)
+![Untitled (3)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/6a5c2c29-1c3f-4d2d-9d39-2408cc220f88)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/14ef029b-66ea-43e1-b366-34a50c821e8c/Untitled.png)
+![Untitled (4)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/d80d1498-dcab-49dc-83f1-0fc3b9685fe3)
 
 ### 3. Excel 파일 Import시 오브젝트 설치 및 criptableObject, Json 형식으로 변환
 
 - Excel 파일 Import시 Excel파일의 정보를 읽어 오브젝트 생성
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/72698be9-34a1-474c-b426-e3935e775003/Untitled.png)
+![Untitled (5)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/7e32867f-7e45-45b0-968c-393e2580faed)
 
 - Excel 파일의 정보를 criptableObject, Json 형식으로 변환
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/b8566d51-4560-49d5-a2e8-64eeb7f73002/Untitled.png)
+![Untitled (6)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/9bdf2616-eeb5-40e7-9ee6-cbed49ccd3a8)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/4808e882-e06c-41da-a206-3057d983b176/Untitled.png)
+![Untitled (7)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/ce65e020-cef7-4883-8dfc-6a404e4691bc)
