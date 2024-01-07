@@ -20,7 +20,7 @@ https://youtu.be/MiLL36TP6oo
 - Scene에서 ctrl키를 누른 상태로 마우스 왼쪽 버튼 클릭 시 오브젝트 생성
 - 오브젝트에 핸들을 생성하여 위치 조정 및 회전 조정 가능
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/689e1289-587b-4736-a6df-3fe7e8f5fd35/Untitled.png)
+![Untitled (1)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/7bc985b0-b14c-4dd3-adbb-055cbf70e419)
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffa4ec29-0a77-481c-9518-81df6cdfbd03/5992489d-29fd-40a5-a1a1-5227dcee4e8c/Untitled.png)
 
