@@ -29,6 +29,10 @@ https://youtu.be/MiLL36TP6oo
 
 ![Untitled (2)](https://github.com/kdm6859/AssetPostProcessor/assets/64892955/4e3abef6-a417-4fe6-83ca-18a5f90f2910)
 
+- A키로 오브젝트 그룹 생성
+- C키으로 오브젝트 그룹 변경 가능
+- delete 키로 오브젝트 삭제, shift + delete 로 오브젝트 그룹 삭제
+
 ### 2. 설치한 오브젝트  Excel 파일로 저장
 
 - 메뉴에 저장버튼을 생성하여 버튼 클릭 시 생성한 오브젝트 Excel 파일로 저장(NPOI 라이브러리)
